@@ -1,7 +1,7 @@
 [
   {
-    "title": "آلمان (Germany)",
-    "country_icon": "https://cdn.countryflags.com/thumbs/germany/flag-400.png",
+    "title": "ترکیه (Türk Telekom)",
+    "country_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
     "url": "https://raw.githubusercontent.com/seeverApp/vpn/refs/heads/main/client.ovpn",
     "condition": "true"
   }
