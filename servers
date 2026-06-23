@@ -1,1 +1,8 @@
-
+[
+  {
+    "title": "آلمان (Germany)",
+    "country_icon": "https://cdn.countryflags.com/thumbs/germany/flag-400.png",
+    "url": "https://raw.githubusercontent.com/seeverApp/vpn/refs/heads/main/client.ovpn",
+    "condition": "true"
+  }
+]
