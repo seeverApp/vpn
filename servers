@@ -1,7 +1,7 @@
 [
   {
-    "title": "ترکیه (Türk Telekom)",
-    "country_icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+    "title": "ترکیه (Türkiye)",
+    "country_icon":"https://raw.githubusercontent.com/seeverApp/vpn/refs/heads/main/1782188747449.png",
     "url": "https://raw.githubusercontent.com/seeverApp/vpn/refs/heads/main/client.ovpn",
     "condition": "true"
   }
